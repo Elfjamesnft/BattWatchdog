@@ -1,7 +1,12 @@
 # 🔋 BattWatchdog  
 Track battery abuse like a watchdog!  
 <div align="center">
-  <img src="docs/media/banner.png" width="800" alt="BattWatchdog Banner">
+  
+# 🔋 BATTWATCHDOG  
+### *"Guardian of your batteries' health"*  
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)  
+
 </div>
 ## How to Use  
 1. Run the simulator: `python simulator/simulate_battery_data.py`  
